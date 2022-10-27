@@ -111,3 +111,5 @@ googleAnalytics = ""
   url = "/about"
   name = "About Us"
   weight = 10
+
+custom_css = [ "css/custom.css" ]

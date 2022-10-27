@@ -106,4 +106,8 @@
       {{- partial "helpers/config.html" (dict "root" $ "head" true "type" .type "data" .) -}}
     {{- end -}}
   {{- end -}}
+
+  {{ range .Site.Params.custom_css -}}
+    <link rel="stylesheet" href="{{ . }}">
+  {{- end }}
 </head>

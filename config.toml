@@ -26,6 +26,7 @@ lastmod = ["lastmod", ":git", "date"]
 [params]
   name = "Calcasieu Soccer Club"
   description = "Soccer club for all ages in Calcasieu parish"
+  custom_css = ["/css/custom.css"]
 
   [params.style]
     #background = "secondary"
