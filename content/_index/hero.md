@@ -18,8 +18,8 @@ subtitle = "Soccer programs for all ages"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Leauges"
-  url = "/leauges"
+  text = "Leagues"
+  url = "/leagues"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]

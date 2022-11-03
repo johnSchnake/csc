@@ -1,1 +1,5 @@
 h1.text-body { color: yellow !important; }
+
+.nav img { height: 95px !important }
+#nav { padding: 0 0 0 0 !important }
+.navbar-custom-img { background: #bfbfbf url('/images/bg-header.jpg') no-repeat top center }

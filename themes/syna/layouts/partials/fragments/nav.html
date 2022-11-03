@@ -6,21 +6,26 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- "<!-- Navigation -->" | safeHTML -}}
-<nav class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy
+<nav 
+  class="overlay fragment navbar navbar-expand-lg py-2 scroll-spy
   {{- printf " bg-%s" $bg -}}
   {{- if or (eq $bg "light") (eq $bg "white") (eq $bg "secondary") -}}
     {{- printf " navbar-%s" "light" -}}
   {{- else -}}
     {{- printf " navbar-%s" "dark" -}}
   {{- end -}}
-" id="{{ .Name }}" role="navigation"
+  {{- if .Params.image }}
+    {{- printf " navbar-custom-img" -}}
+  {{- end -}}
+" 
+id="{{ .Name }}" role="navigation"
 {{- if .Params.sticky -}}
   {{- safeHTMLAttr (print " style='position: sticky; top: 0; z-index: 10000 !important;'") -}}
 {{- end -}}>
   <div class="container">
     {{- if .Params.asset.image }}
       <a class="navbar-brand py-0" href="{{ "#" | relLangURL }}">
-        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" height="35" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
+        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" .Params.asset) }}" class="d-inline-block align-top" alt="{{ .Params.asset.text }}">
       </a>
     {{- else }}
       <a class="navbar-brand py-0" href="{{ "#" | relLangURL }}">
