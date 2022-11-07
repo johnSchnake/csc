@@ -1,8 +1,5 @@
 +++
-fragment = "content"
-title = "Leagues"
-
-date = "2022-09-08"
-weight = 100
-background = "white"
+date = "2018-07-21"
+title = "Programs in index.md"
+fragment = "list"
 +++

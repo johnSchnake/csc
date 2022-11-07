@@ -1,5 +1,5 @@
 +++
-fragment = "item"
+fragment = "content"
 title = "Eagles"
 subtitle = "League for ages 10-18"
 date = "2017-10-05"
