@@ -29,7 +29,7 @@ lastmod = ["lastmod", ":git", "date"]
   custom_css = ["/css/custom.css"]
 
   [params.style]
-    #background = "secondary"
+    background = "white"
 
   # Theme customizations
   # Assets relative to 'static/'

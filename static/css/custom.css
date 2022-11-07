@@ -4,7 +4,19 @@ h1.text-body { color: yellow !important; }
 #nav { padding: 0 0 0 0 !important }
 .navbar-custom-img { background: #bfbfbf url('/images/bg-header.jpg') no-repeat top center }
 
-.item .row { 
-    width: 90%;
+.item:nth-child(even)>div>div { 
+   width: 90%;
     border-radius: 25px;
+    // border: solid;
+    background: #868e96;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
+
+.item:nth-child(odd)>div>div { 
+    width: 90%;
+     border-radius: 25px;
+     // border: solid;
+     margin-top: 10px;
+    margin-bottom: 10px;
+ }

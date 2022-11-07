@@ -12,12 +12,12 @@ weight = 120
 [[buttons]]
   text = "More Info"
   url = "resources#8v8"
-  color = "success"
+  color = "warning"
 
 [[buttons]]
   text = "Register"
   url = "google.com"
-  color = "success"
+  color = "warning"
 +++
 
 The recreation league provides an opportunity for young boys and girls to play soccer and develop their skills. We have a Fall & Spring season with games played at the Lake Charles Power Center.
