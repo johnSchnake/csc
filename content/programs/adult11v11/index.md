@@ -7,6 +7,8 @@ align = "left"
 weight = 150
 url = "example.com"
 
+summary = "SUMMARY INFO"
+
 [asset]
   image = "adultItem2.jpg"
 

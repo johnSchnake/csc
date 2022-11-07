@@ -7,8 +7,10 @@ align = "left"
 weight = 150
 url = "example.com"
 
+summary = "8v8 summary"
+
 [asset]
-  image = "adultItem2.jpg"
+  image = "adultItem.jpg"
 
 [[buttons]]
   text = "More Info"
