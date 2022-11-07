@@ -6,11 +6,11 @@ weight = 1100
 #background = "light"
 form_name = "defaultContact"
 
-title = "Contact fragment"
+title = "Contact Us"
 
 # PostURL can be used with backends such as mailout from caddy
-post_url = "https://example.com/mailout" #default: formspree.io
-email = "mail@example.com"
+#post_url = "https://example.com/mailout" #default: formspree.io
+email = "paul@cscsoccerclub.org"
 button = "Send Button" # defaults to theme default
 #netlify = false
 

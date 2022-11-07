@@ -20,16 +20,21 @@ subtitle = "Soccer programs for all ages"
 [[buttons]]
   text = "Programs"
   url = "/programs"
-  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "warning"
 
 [[buttons]]
   text = "Tournaments"
   url = "/tournaments"
-  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "warning"
+
+[[buttons]]
+  text = "Camps & Clinics"
+  url = "/clinics"
+  color = "warning"
 
 [[buttons]]
   text = "Volunteer"
   url = "/volunteer"
-  color = "primary"
+  color = "warning"
 
 +++

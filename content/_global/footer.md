@@ -14,6 +14,14 @@ menu_title = "CSC"
   url = "#"
 +++
 
-#### About us
+#### Contact Us
 
-The purpose of CSC is to provide and promote outstanding soccer programs to people of all ages and abilities.
+P.O. Box 6398
+Lake Charles, LA 70606
+United States
+
+337-474-6131
+
+Youth Contact:  paul@cscsoccerclub.org
+
+Adult Contact: jessica.hargrave@cscsoccerclub.org
