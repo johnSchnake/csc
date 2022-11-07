@@ -1,7 +1,7 @@
 +++
 fragment = "item"
-title = "Recreational"
-subtitle = "Ages 4-18"
+title = "Youth Recreational"
+subtitle = "League for ages 4-18"
 date = "2017-10-05"
 align = "right"
 weight = 120

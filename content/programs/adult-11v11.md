@@ -1,6 +1,7 @@
 +++
 fragment = "item"
-title = "Adult 11v11"
+title = "Adult 11v11 League"
+subtitle = "League for ages 18+"
 date = "2017-10-05"
 align = "left"
 weight = 150

@@ -77,28 +77,28 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 20
 
 [[menu.main]]
-  url = "/leagues"
-  name = "Leauges"
+  url = "/programs"
+  name = "Programs"
   weight = 30
 
 [[menu.main]]
   url = "/volunteer"
   name = "Volunteer"
-  weight = 30
+  weight = 40
 
 [[menu.main]]
   url = "/resources"
   name = "Resources"
-  weight = 30
+  weight = 50
 
 [[menu.main]]
   url = "#contact"
   name = "Contact"
-  weight = 30
+  weight = 60
 
 [[menu.footer]]
-  url = "#leauges"
-  name = "Leauges"
+  url = "#programs"
+  name = "Programs"
   weight = 10
 
 [[menu.footer]]

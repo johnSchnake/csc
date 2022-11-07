@@ -10,7 +10,7 @@ title = "Calcasieu Soccer Club"
 subtitle = "Soccer programs for all ages"
 
 [header]
-  image = "header.jpg"
+  image = "header.webp"
 
 [asset]
   image = "csc-logo-large.png"
@@ -18,8 +18,13 @@ subtitle = "Soccer programs for all ages"
   #height = "150px" # optional - will default to image height
 
 [[buttons]]
-  text = "Leagues"
-  url = "/leagues"
+  text = "Programs"
+  url = "/programs"
+  color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+
+[[buttons]]
+  text = "Tournaments"
+  url = "/tournaments"
   color = "primary" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
@@ -27,8 +32,4 @@ subtitle = "Soccer programs for all ages"
   url = "/volunteer"
   color = "primary"
 
-[[buttons]]
-  text = "Resources"
-  url = "/resources"
-  color = "primary"
 +++

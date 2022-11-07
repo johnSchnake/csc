@@ -1,6 +1,7 @@
 +++
 fragment = "item"
-title = "Adult 8v8"
+title = "Adult 8v8 League"
+subtitle = "League for ages 18+"
 date = "2017-10-05"
 item_url = "#"
 align = "right"

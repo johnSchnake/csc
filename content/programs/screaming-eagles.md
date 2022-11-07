@@ -1,7 +1,7 @@
 +++
 fragment = "item"
 title = "Screamin' Eagles"
-subtitle = "Under 4 years old"
+subtitle = "League for children under 4 years old"
 date = "2017-10-05"
 align = "left"
 weight = 110

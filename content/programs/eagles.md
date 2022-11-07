@@ -1,7 +1,7 @@
 +++
 fragment = "item"
 title = "Eagles"
-subtitle = "Ages 10-18"
+subtitle = "League for ages 10-18"
 date = "2017-10-05"
 align = "left"
 weight = 130
