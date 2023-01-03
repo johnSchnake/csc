@@ -11,6 +11,11 @@ weight = 110
 
 [[buttons]]
   text = "More Info"
+  url = "programs/screamineagles"
+  color = "warning"
+
+[[buttons]]
+  text = "More Info"
   url = "resources#8v8"
   color = "warning"
 

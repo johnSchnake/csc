@@ -12,12 +12,17 @@ summary = "A tournament for 9U-18U in SW Louisiana"
 
 [[buttons]]
   text = "More Info"
-  url = "resources#8v8"
+  url = "events/2023piratecup"
   color = "warning"
 
 [[buttons]]
   text = "Register"
   url = "https://system.gotsport.com/event_regs/15a71b6aed"
+  color = "warning"
+
+[[buttons]]
+  text = "Resources"
+  url = "resources#2023piratecup"
   color = "warning"
 +++
 

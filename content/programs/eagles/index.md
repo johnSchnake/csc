@@ -15,12 +15,17 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
 
 [[buttons]]
   text = "More Info"
-  url = "resources#8v8"
+  url = "programs/eagles"
   color = "warning"
 
 [[buttons]]
   text = "Register"
   url = "google.com"
+  color = "warning"
+
+[[buttons]]
+  text = "More Info"
+  url = "resources#8v8"
   color = "warning"
 +++
 

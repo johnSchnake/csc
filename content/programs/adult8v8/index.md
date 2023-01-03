@@ -14,6 +14,11 @@ summary = "8v8 summary"
 
 [[buttons]]
   text = "More Info"
+  url = "programs/adult8v8"
+  color = "warning"
+
+[[buttons]]
+  text = "More Info"
   url = "resources#8v8"
   color = "warning"
 

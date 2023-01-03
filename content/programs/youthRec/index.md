@@ -11,6 +11,11 @@ weight = 120
 
 [[buttons]]
   text = "More Info"
+  url = "programs/youthrec"
+  color = "warning"
+
+[[buttons]]
+  text = "More Info"
   url = "resources#8v8"
   color = "warning"
 
