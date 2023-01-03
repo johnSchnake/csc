@@ -28,8 +28,8 @@ subtitle = "Soccer programs for all ages"
   color = "warning"
 
 [[buttons]]
-  text = "Camps & Clinics"
-  url = "/clinics"
+  text = "Events"
+  url = "/events"
   color = "warning"
 
 [[buttons]]

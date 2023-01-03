@@ -23,7 +23,6 @@ summary = "8v8 summary"
   color = "warning"
 +++
 
-/
 fragment = "content"
 title = "Adult 8v8 League"
 subtitle = "League for ages 18+"
