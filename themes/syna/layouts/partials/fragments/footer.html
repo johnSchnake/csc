@@ -3,8 +3,10 @@
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
   <div class="ads">
-    {{- range .Params }}
-      {{ printf "%#v" . }}
+    {{- range $.Site.Params.ads }}
+      <a href="{{ .url }}">
+        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad" alt="{{ .text }}">
+      </a>
     {{- end }}
   </div>
 

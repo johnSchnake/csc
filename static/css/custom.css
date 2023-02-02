@@ -28,6 +28,27 @@ article:nth-child(odd){
      color: black !important;
  }
 
+ div.ads {
+    display: inline-block;
+    text-align: center;
+ }
+
  div.ads img {
     filter: grayscale(1) !important;
  }
+
+ img.img-custom-ad {
+    margin: 10px;
+ }
+
+ div.alert {
+    background-color: tomato;
+    text-align: center;
+    width: 90%;
+    border-radius: 25px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+ }
+
+ 
