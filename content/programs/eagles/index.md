@@ -19,14 +19,15 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   color = "warning"
 
 [[buttons]]
+  text = "Resources"
+  url = "resources#eagles"
+  color = "warning"
+
+[[buttons]]
   text = "Register"
   url = "google.com"
   color = "warning"
 
-[[buttons]]
-  text = "More Info"
-  url = "resources#8v8"
-  color = "warning"
 +++
 
 # EAGLES COMPETITIVE LEVEL SOCCER

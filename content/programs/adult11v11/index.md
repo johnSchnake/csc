@@ -5,7 +5,6 @@ subtitle = "League for ages 18+"
 date = "2017-10-05"
 align = "left"
 weight = 150
-url = "example.com"
 
 summary = """The Coed 11v11 League is a semi-competitive coed league that is open to males at least 27 years old and females at least 18 years old. The 11v11 games are played on Sunday nights at 6:30PM & 7:45 PM. In order to participate, all players MUST be registered with Calcasieu Soccer Club.
 Fees are $50.00 for new players or $35.00 for returning players."""
@@ -19,13 +18,13 @@ Fees are $50.00 for new players or $35.00 for returning players."""
   color = "warning"
 
 [[buttons]]
-  text = "More Info"
-  url = "resources#8v8"
+  text = "Resources"
+  url = "resources#adult-competitive"
   color = "warning"
 
 [[buttons]]
   text = "Register"
-  url = "google.com"
+  url = "https://system.gotsport.com/programs/477969Y91"
   color = "warning"
 +++
 

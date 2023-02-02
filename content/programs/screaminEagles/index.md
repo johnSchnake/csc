@@ -19,13 +19,13 @@ Our purpose is to introduce a younger generation to the great game of soccer thr
   color = "warning"
 
 [[buttons]]
-  text = "More Info"
-  url = "resources#8v8"
+  text = "Resources"
+  url = "resources#screaming-eagles"
   color = "warning"
 
 [[buttons]]
   text = "Register"
-  url = "google.com"
+  url = "https://system.gotsport.com/programs/470409G82?reg_role=player"
   color = "warning"
 +++
 

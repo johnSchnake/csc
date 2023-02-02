@@ -19,13 +19,13 @@ The recreation league provides an opportunity for young boys and girls to play s
   color = "warning"
 
 [[buttons]]
-  text = "More Info"
-  url = "resources#8v8"
+  text = "Resources"
+  url = "resources#rec"
   color = "warning"
 
 [[buttons]]
-  text = "Register"
-  url = "google.com"
+  text = "Late Registration List"
+  url = "https://docs.google.com/forms/d/e/1FAIpQLSe_CNOvrLGxtXIDpg53VBaKGakQIJRTt_NK8ZS5AKZzHviSag/viewform"
   color = "warning"
 +++
 
