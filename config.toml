@@ -28,6 +28,33 @@ lastmod = ["lastmod", ":git", "date"]
   description = "Soccer club for all ages in Calcasieu parish"
   custom_css = ["/css/custom.css"]
 
+  [params.alerts]
+    [params.alerts.alert1]
+      message = "This is a sample alert"
+
+  [params.ads]
+    [params.ads.ad1]
+      image = "ads/adAcademy.png"
+      url = "Academy URL"
+    [params.ads.ad2]
+      image = "ads/billynavarre.png"
+      url = "www.billynavarre.com"
+    [params.ads.ad3]
+      image = "ads/blum.png"
+      url = "Academy URL"
+    [params.ads.ad4]
+      image = "ads/centerfororthopedics.png"
+      url = "Academy URL"
+    [params.ads.ad5]
+      image = "ads/guillory-corcoran.png"
+      url = "Academy URL"
+    [params.ads.ad6]
+      image = "ads/statefarm.png"
+      url = "Academy URL"
+    [params.ads.ad7]
+      image = "ads/ward3.png"
+      url = "Academy URL"
+
   [params.style]
     background = "white"
 
@@ -36,8 +63,6 @@ lastmod = ["lastmod", ":git", "date"]
   [params.custom]
     favicon = "images/favicon.ico"
     favicon_ico_sizes = "16x16 32x32"
-  #  favicon_png = "favicon.png"
-  #  favicon_svg = "favicon.svg"
 
   # Piwik tracking
   [params.analytics.piwik]
@@ -138,6 +163,3 @@ lastmod = ["lastmod", ":git", "date"]
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
-
-[Ads]
-  image = "ads/adsAcademy.png"

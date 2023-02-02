@@ -255,3 +255,8 @@ id="{{ .Name }}" role="navigation"
   }
 </style>
 {{- end -}}
+{{- range sort .Site.Params.alerts }}
+<div class="alert">
+  <strong>{{- .message -}}</strong>
+</div>
+{{- end -}}
