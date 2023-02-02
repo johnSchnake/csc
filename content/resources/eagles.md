@@ -36,11 +36,11 @@ title = "Eagles"
 
 [[rows]]
   [[rows.values]]
-    header = "League rules"
+    header = "CSC Eagles 9U-10U Academy Information"
 
   [[rows.values]]
     button = "Link"
-    url = "files/adult-league-rules.pdf"
+    url = "files/10u-academy-program.pdf"
     color = "primary"
     align = "center"
 
