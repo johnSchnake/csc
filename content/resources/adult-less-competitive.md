@@ -2,9 +2,11 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 110
+weight = 140
+background = "secondary"
 
-title = "Screamin' Eagles"
+title = "Adult 8v8 (less competitive)"
+subtitle= "Tables are responsive by default"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
@@ -19,8 +21,7 @@ title = "Screamin' Eagles"
 
   [[rows.values]]
     button = "Link"
-    url = "https://system.gotsport.com/programs/477969Y91"
-    
+    url = "https://system.gotsport.com/programs/4839F0493"
     color = "primary"
     align = "center"
 
@@ -36,11 +37,11 @@ title = "Screamin' Eagles"
 
 [[rows]]
   [[rows.values]]
-    header = "Parents' Guide"
+    header = "League rules"
 
   [[rows.values]]
     button = "Link"
-    url = "files/screamin-eagles-parent-guide.pdf"
+    url = "files/adult-league-rules.pdf"
     color = "primary"
     align = "center"
 

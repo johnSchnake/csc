@@ -2,9 +2,9 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 110
+weight = 170
 
-title = "Screamin' Eagles"
+title = "Referees"
 #title_align = "left" # Default is center, can be left, right or center
 
 [header]
@@ -36,11 +36,11 @@ title = "Screamin' Eagles"
 
 [[rows]]
   [[rows.values]]
-    header = "Parents' Guide"
+    header = "League rules"
 
   [[rows.values]]
     button = "Link"
-    url = "files/screamin-eagles-parent-guide.pdf"
+    url = "files/adult-league-rules.pdf"
     color = "primary"
     align = "center"
 
