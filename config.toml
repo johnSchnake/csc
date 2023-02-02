@@ -138,3 +138,6 @@ lastmod = ["lastmod", ":git", "date"]
   [security.http]
     methods = ['(?i)GET|POST']
     urls = ['.*']
+
+[Ads]
+  image = "ads/adsAcademy.png"

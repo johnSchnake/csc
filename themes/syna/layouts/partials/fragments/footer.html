@@ -2,6 +2,12 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
+  <div class="ads">
+    {{- range .Params }}
+      {{ printf "%#v" . }}
+    {{- end }}
+  </div>
+
   <div class="row">
     <div class="col-md m-2
       {{- partial "helpers/text-color.html" (dict "self" $self.self "light" "secondary") -}}

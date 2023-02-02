@@ -113,20 +113,6 @@
                       class="img-fluid mb-2">
                   </div>
                 {{- end -}}
-                {{- if .Params.buttons }}
-                <div class="col-12 text-center">
-                  {{- range .Params.buttons }}
-                    <a class="btn btn-lg m-2
-                      {{ if hasPrefix .url "#" }} anchor{{ end }}
-                      {{- $color := .color | default "primary" -}}
-                      {{- printf " btn-%s" $color -}}
-                    " href="{{ .url | relLangURL }}">
-                      {{- .text -}}
-                    </a>
-                    {{- end }}
-                </div>
-                {{- end -}}
-                
               {{- end -}}
               {{- if $display_summary }}
                 <div class="col-12 pl-0 mt-2
@@ -148,6 +134,20 @@
                   {{- end -}}
                 </div>
               {{- end -}}
+              {{- if .Params.buttons }}
+                <div class="col-12 text-center">
+                  {{- range .Params.buttons }}
+                    <a class="btn btn-lg m-2
+                      {{ if hasPrefix .url "#" }} anchor{{ end }}
+                      {{- $color := .color | default "primary" -}}
+                      {{- printf " btn-%s" $color -}}
+                    " href="{{ .url | relLangURL }}">
+                      {{- .text -}}
+                    </a>
+                    {{- end }}
+                </div>
+              {{- end -}}
+
               {{- partial "helpers/slot.html" (dict "root" $ "slot" "after-item" "data" $slot_context) -}}
             {{- if $self.Params.collapsible -}}
               </div>

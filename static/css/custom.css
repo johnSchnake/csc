@@ -4,19 +4,30 @@ h1.text-body { color: yellow !important; }
 #nav { padding: 0 0 0 0 !important }
 .navbar-custom-img { background: #bfbfbf url('/images/bg-header.jpg') no-repeat top center }
 
-.item:nth-child(even)>div>div { 
+article:nth-child(even) { 
    width: 90%;
     border-radius: 25px;
-    // border: solid;
-    background: #868e96;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    background: #868e968f;
+    padding: 20px !important;
 }
 
-.item:nth-child(odd)>div>div { 
+article:nth-child(odd){ 
     width: 90%;
      border-radius: 25px;
-     // border: solid;
-     margin-top: 10px;
+    margin-top: 10px;
     margin-bottom: 10px;
+ }
+
+ article img {
+     float: left;
+     padding: 10px;
+ }
+
+ code, section .bg-light code, section .bg-light pre {
+     background-color: #f8f9fa !important;
+     color: black !important;
+ }
+
+ div.ads img {
+    filter: grayscale(1) !important;
  }

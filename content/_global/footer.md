@@ -1,16 +1,13 @@
 +++
 fragment = "footer"
-#disabled = true
 date = "2016-09-07"
 weight = 1200
-#background = ""
 
 menu_title = "CSC"
 
 [asset]
   title = "CSC"
   image = "csc-logo-menu.jpg"
-#  text = "Logo Subtext"
   url = "#"
 +++
 
