@@ -112,9 +112,14 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 40
 
 [[menu.main]]
+  url = "/tournaments"
+  name = "Tournaments"
+  weight = 45
+
+[[menu.main]]
   url = "/events"
   name = "Events"
-  weight = 40
+  weight = 47
 
 [[menu.main]]
   url = "/resources"

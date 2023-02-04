@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-title = "Coaching"
+title = "COACHING"
 date = "2017-10-05"
 align = "left"
 weight = 150

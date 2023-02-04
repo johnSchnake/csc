@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-title = "Youth Recreational"
+title = "YOUTH RECREATIONAL"
 subtitle = "League for ages 4-18"
 date = "2017-10-05"
 align = "right"
@@ -19,13 +19,13 @@ The recreation league provides an opportunity for young boys and girls to play s
   color = "warning"
 
 [[buttons]]
-  text = "Resources"
-  url = "resources#rec"
-  color = "warning"
-
-[[buttons]]
   text = "Late Registration List"
   url = "https://docs.google.com/forms/d/e/1FAIpQLSe_CNOvrLGxtXIDpg53VBaKGakQIJRTt_NK8ZS5AKZzHviSag/viewform"
+  color = "warning"
+  
+[[buttons]]
+  text = "Resources"
+  url = "resources#rec"
   color = "warning"
 +++
 

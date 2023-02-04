@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-title = "Screamin' Eagles"
+title = "SCREAMIN' EAGLES"
 subtitle = "League for children under 4 years old"
 date = "2017-10-05"
 align = "left"
@@ -19,14 +19,15 @@ Our purpose is to introduce a younger generation to the great game of soccer thr
   color = "warning"
 
 [[buttons]]
+  text = "Register"
+  url = "https://system.gotsport.com/programs/470409G82?reg_role=player"
+  color = "warning"
+  
+[[buttons]]
   text = "Resources"
   url = "resources#screaming-eagles"
   color = "warning"
 
-[[buttons]]
-  text = "Register"
-  url = "https://system.gotsport.com/programs/470409G82?reg_role=player"
-  color = "warning"
 +++
 
 Our purpose is to introduce the cutest generation to the great game of soccer through fun activities and games. The focus will be on gross motor skill development such as running, jumping and balance, and a basic introduction to soccer fundamentals such as kicking and dribbling.

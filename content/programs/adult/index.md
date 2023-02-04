@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-title = "Adult 8v8 League"
+title = "ADULT LEAGUES"
 subtitle = "League for ages 18+"
 date = "2017-10-05"
 align = "left"
@@ -14,18 +14,24 @@ Fees are $50.00 for new players or $35.00 for returning players."""
 
 [[buttons]]
   text = "More Info"
-  url = "programs/adult8v8"
+  url = "programs/adult"
+  color = "warning"
+
+[[buttons]]
+  text = "Register (less competitive)"
+  url = "https://system.gotsport.com/programs/4839F0493"
+  color = "warning"
+
+[[buttons]]
+  text = "Register (competitive league)"
+  url = "https://system.gotsport.com/programs/477969Y91"
   color = "warning"
 
 [[buttons]]
   text = "Resources"
-  url = "resources#adult-less-competitive"
+  url = "resources#adult"
   color = "warning"
 
-[[buttons]]
-  text = "Register"
-  url = "https://system.gotsport.com/programs/4839F0493"
-  color = "warning"
 +++
 
 MORE CONTENT TODO

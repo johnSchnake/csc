@@ -1,6 +1,6 @@
 +++
 fragment = "content"
-title = "Eagles"
+title = "EAGLES"
 subtitle = "League for ages 10-18"
 date = "2017-10-05"
 align = "left"
@@ -19,13 +19,13 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   color = "warning"
 
 [[buttons]]
-  text = "Resources"
-  url = "resources#eagles"
+  text = "Register"
+  url = "google.com"
   color = "warning"
 
 [[buttons]]
-  text = "Register"
-  url = "google.com"
+  text = "Resources"
+  url = "resources#eagles"
   color = "warning"
 
 +++
@@ -61,7 +61,7 @@ The [resources](/resources#eagles) also has information on financial aid, sponso
 
 Set up to help bridge the gap between Recreation and Competitive soccer, the CSC Academy provides 9U & 10U players training and games for those aspiring to play Eagles and beyond
 
-More information [here][/files/10u-academy-program.pdf]
+More information [here][/programs/academy]
  
 ## VENUES
 Eagles teams play their Louisiana Competitive Soccer League games at the Ward 3 Power Center Sport Complex, 3200 Power Center Parkway in Lake Charles.
