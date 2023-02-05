@@ -13,11 +13,13 @@ menu_title = "CSC"
 
 #### Contact Us
 
+```
 P.O. Box 6398
 Lake Charles, LA 70606
 United States
 
 337-474-6131
+```
 
 Youth Contact:  paul@cscsoccerclub.org
 
