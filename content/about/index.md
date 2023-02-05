@@ -15,7 +15,7 @@ The purpose of CSC is to provide and promote outstanding soccer programs to peop
 
 | &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |  |
 | ------- | ------- |
-| **Mailing** | P.O. Box 6398 |
+| **Mailing:** | P.O. Box 6398 |
 |    | Lake Charles, LA 70606 |
 |    | United States |
 | | |

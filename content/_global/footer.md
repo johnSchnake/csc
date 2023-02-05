@@ -13,14 +13,12 @@ menu_title = "CSC"
 
 #### Contact Us
 
-```
-P.O. Box 6398
-Lake Charles, LA 70606
-United States
-
-337-474-6131
-```
-
-Youth Contact:  paul@cscsoccerclub.org
-
-Adult Contact: jessica.hargrave@cscsoccerclub.org
+|  |  |
+| ------- | ------- |
+| **Mailing:** | P.O. Box 6398 |
+|    | Lake Charles, LA 70606 |
+|    | United States |
+| | |
+| **Phone:**| 337-474-6131 |
+| **Email:**| Youth Contact: <br /> paul@cscsoccerclub.org |
+| | Adult Contact: <br /> jessica.hargrave@cscsoccerclub.org|
