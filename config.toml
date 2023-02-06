@@ -30,7 +30,7 @@ lastmod = ["lastmod", ":git", "date"]
 
   [params.alerts]
     [params.alerts.alert1]
-      message = "This is a sample alert"
+      message = "Changes to sample alert"
 
   [params.ads]
     [params.ads.ad1]
