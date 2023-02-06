@@ -43,5 +43,15 @@ title = "Screamin' Eagles"
     url = "files/screamin-eagles-parent-guide.pdf"
     color = "primary"
     align = "center"
+    
+[[rows]]
+  [[rows.values]]
+    header = "Sample additional line"
+
+  [[rows.values]]
+    button = "Link"
+    url = "google.com"
+    color = "primary"
+    align = "center"
 
 +++
