@@ -27,17 +27,7 @@ The purpose of CSC is to provide and promote outstanding soccer programs to peop
 
 ## Board Members:
 
- - President -Tony Fazzio: tony.c.fazzio@gmail.com
- - Vice President Administration- Charlie Stewart
- - Vice President Operations – Kevin Camel
- - Treasurer – Angela Queenan
- - Secretary – Shannon McCall
- - Ric Manuel
- - Matt Keatking
- - Chris Stickell
- - Rachel Muth
- - Competitive Director of Coaching – Kyra Williams: kyra@cscsoccerclub.org 
- - Recreation Director of Coaching – Curtis Stewart: Curtis@cscsoccerclub.org
+ - John schnake
 
  
 
