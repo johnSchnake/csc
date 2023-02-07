@@ -2,6 +2,10 @@ h1.text-body { color: yellow !important; }
 
 .nav img { height: 95px !important }
 #nav { padding: 0 0 0 0 !important }
+.navbar-light .navbar-nav .nav-link {
+   color: rgba(0,0,0,0.8) !important;
+   font-weight: bold;
+}
 .navbar-custom-img { background: #bfbfbf url('/images/bg-header.jpg') no-repeat top center }
 
 article:nth-child(even) { 

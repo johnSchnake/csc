@@ -7,7 +7,7 @@ background = "light" # can influence the text color
 particles = true
 
 title = "Calcasieu Soccer Club"
-subtitle = "Soccer programs for all ages"
+subtitle = "SOCCER PROGRAMS FOR ALL AGES"
 
 [header]
   image = "header.webp"
