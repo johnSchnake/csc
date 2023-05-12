@@ -8,6 +8,12 @@ h1.text-body { color: yellow !important; }
 }
 .navbar-custom-img { background: #bfbfbf url('/images/bg-header.jpg') no-repeat top center }
 
+/* For resources page colors etc*/
+div.table tr:nth-child(even),thead { 
+   background: #868e9638;
+}
+
+/* article is used here to match program sections. the resources are just sections though.*/
 article:nth-child(even) { 
    width: 90%;
     border-radius: 25px;
