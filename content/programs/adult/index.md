@@ -21,16 +21,19 @@ Fees are $50.00 for new players or $35.00 for returning players."""
   text = "Register (less competitive)"
   url = "https://system.gotsport.com/programs/4839F0493"
   color = "warning"
+  onPage = true
 
 [[buttons]]
   text = "Register (competitive league)"
   url = "https://system.gotsport.com/programs/477969Y91"
   color = "warning"
+  onPage = true
 
 [[buttons]]
   text = "Resources"
   url = "resources#adult"
   color = "warning"
+  onPage = true
 
 +++
 
