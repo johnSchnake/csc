@@ -11,15 +11,14 @@ h1.text-body { color: yellow !important; }
 article:nth-child(even) { 
    width: 90%;
     border-radius: 25px;
-    background: #868e968f;
+    background: #868e9638;
     padding: 20px !important;
 }
 
 article:nth-child(odd){ 
     width: 90%;
      border-radius: 25px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+     padding: 20px !important;
  }
 
  article img {
