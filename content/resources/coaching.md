@@ -3,7 +3,6 @@ fragment = "table"
 #disabled = false
 date = "2017-10-10"
 weight = 160
-background = "secondary"
 
 title = "Coaching"
 #title_align = "left" # Default is center, can be left, right or center
