@@ -32,10 +32,10 @@ Listed below are some cases which, although possible, would likely require devel
 
  - [x] adjust buttons in list to be vertically aligned on the side? Already centered so maybe ok.
  - [ ] Fill in copy from existing site
- - [ ] Advertiser logos
+ - [ ] Advertiser logos (new ones)
  - [x] Alternate background color for items in list
  - [ ] Pictures for all the programs?
- - [ ] Simple way to make announcements?
+ - [x] Simple way to make announcements?
 
 Copyright 2017 - The Syna Theme Starter Authors
 
