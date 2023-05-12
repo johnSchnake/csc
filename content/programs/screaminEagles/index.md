@@ -22,11 +22,13 @@ Our purpose is to introduce a younger generation to the great game of soccer thr
   text = "Register"
   url = "https://system.gotsport.com/programs/470409G82?reg_role=player"
   color = "warning"
+  onPage = true
   
 [[buttons]]
   text = "Resources"
   url = "resources#screaming-eagles"
   color = "warning"
+  onPage = true
 
 +++
 

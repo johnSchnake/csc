@@ -22,11 +22,13 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   text = "Register LINK TODO"
   url = "google.com"
   color = "warning"
+  onPage = true
 
 [[buttons]]
   text = "Resources"
   url = "resources#eagles"
   color = "warning"
+  onPage = true
 
 +++
 

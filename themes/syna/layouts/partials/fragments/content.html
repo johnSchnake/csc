@@ -62,4 +62,20 @@
       </div>
     </article>
   </div>
+  {{- if .Params.buttons }}
+  <div class="col-12 text-center">
+    {{- range .Params.buttons }}
+      {{ if .onPage }}
+        <a class="btn btn-lg m-2
+          {{ if hasPrefix .url "#" }} anchor{{ end }}
+          {{- $color := .color | default "primary" -}}
+          {{- printf " btn-%s" $color -}}
+        " href="{{ .url | relLangURL }}">
+          {{- .text -}}
+        </a>
+        {{- end }}
+      {{- end }}
+  </div>
+  {{- end -}}
+  
 {{- partial "helpers/container.html" (dict "end" true "in_slot" .in_slot) -}}
