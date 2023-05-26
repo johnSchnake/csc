@@ -5,7 +5,7 @@
   <div class="ads">
     {{- range $.Site.Params.ads }}
       <a href="{{ .url }}">
-        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad" alt="{{ .text }}">
+        <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad {{ .tier }}" alt="{{ .text }}">
       </a>
     {{- end }}
   </div>

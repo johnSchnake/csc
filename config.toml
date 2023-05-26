@@ -34,26 +34,58 @@ lastmod = ["lastmod", ":git", "date"]
 
   [params.ads]
     [params.ads.ad1]
+      image = "ads/bradberry.jpg"
+      url = "Academy URL"
+      tier = "tier1"
+    [params.ads.ad2]
+      image = "ads/ortho.jpg"
+      url = "Academy URL"
+      tier = "tier1"
+    [params.ads.ad3]
+      image = "ads/billynavarre.png"
+      url = "Academy URL"
+      tier = "tier1"
+    
+    [params.ads.ad4]
+      image = "ads/retinaCenter.png"
+      url = "Academy URL"
+      tier = "tier2"
+    [params.ads.ad5]
+      image = "ads/flyLC.png"
+      url = "Academy URL"
+      tier = "tier2"
+    [params.ads.ad6]
+      image = "ads/firstFederal.jpg"
+      url = "Academy URL"
+      tier = "tier2"
+
+    [params.ads.ad7]
+      image = "ads/muddBruchhausandKeating.jpg"
+      url = "Academy URL"
+      tier = "tier3"
+    [params.ads.ad8]
+      image = "ads/globalCrane.jpg"
+      url = "Academy URL"
+      tier = "tier3"
+    [params.ads.ad9]
       image = "ads/adAcademy.png"
       url = "Academy URL"
-    [params.ads.ad2]
-      image = "ads/billynavarre.png"
-      url = "www.billynavarre.com"
-    [params.ads.ad3]
-      image = "ads/blum.png"
+      tier = "tier3"
+
+    [params.ads.ad10]
+      image = "ads/duhonPleasant.png"
+      url = "www.google.com"
+      tier = "tier3"
+    
+    [params.ads.ad11]
+      image = "ads/oakgrove.png"
       url = "Academy URL"
-    [params.ads.ad4]
-      image = "ads/centerfororthopedics.png"
+      tier = "tier3"
+    
+    [params.ads.ad12]
+      image = "ads/snow.png"
       url = "Academy URL"
-    [params.ads.ad5]
-      image = "ads/guillory-corcoran.png"
-      url = "Academy URL"
-    [params.ads.ad6]
-      image = "ads/statefarm.png"
-      url = "Academy URL"
-    [params.ads.ad7]
-      image = "ads/ward3.png"
-      url = "Academy URL"
+      tier = "tier3"
 
   [params.style]
     background = "white"
