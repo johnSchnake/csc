@@ -55,6 +55,16 @@ article:nth-child(odd){
     margin: 10px;
  }
 
+ div.ads img.tier1 {
+   width: 45%;
+}
+div.ads img.tier2 {
+   width: 25%;
+}
+div.ads img.tier3 {
+   width: 15%;
+}
+
  div.alert {
     background-color: tomato;
     text-align: center;
