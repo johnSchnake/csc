@@ -117,8 +117,8 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 45
 
 [[menu.main]]
-  url = "/events"
-  name = "Events"
+  url = "/camps"
+  name = "Camps & More"
   weight = 47
 
 [[menu.main]]
@@ -142,8 +142,8 @@ lastmod = ["lastmod", ":git", "date"]
   weight = 12
 
 [[menu.footer]]
-  url = "/events"
-  name = "Events"
+  url = "/camps"
+  name = "Camps & More"
   weight = 13
 
 [[menu.footer]]
