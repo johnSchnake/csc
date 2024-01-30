@@ -37,4 +37,41 @@ Fees are $50.00 for new players or $35.00 for returning players."""
 
 +++
 
-MORE CONTENT TODO
+## About
+
+CSC offers 2 separate leagues for players 18+:
+  - Less competitive ("Sub-optimal")
+    - Males age 27+, females 18+
+    - Smaller teams on a reduced-size pitch
+  - More competitive
+    - Males and females 18+
+    - Larger teams played on a full-size pitch
+
+### Age Requirement
+All players must be 18+
+
+### Session Details
+
+Teams may individually decide to have a practice, but typically they simply play 1 game a week.
+
+### Registration Fee
+
+- First-time players: $70 annually
+- Returning players: $50 annually
+
+## Season Information
+
+- **Dates:**
+  - FALL - August through October
+  - SPRING - February through April
+- **Location:** LaGrange Soccer Park, 200 W School St, Lake Charles, LA 70605
+- **Equipment:** 
+  - Teams are assigned a color and each player must wear a shirt of that color
+  - Cleats
+  - Shin guards
+  - Water
+- **Games:**
+  - The less competitive league typically has games on Wednesday evenings
+  - The competitive league games are typically on Sunday afternoon/evening
+
+**Note:** Additional information including maps can be accessed via the "Resources" link below.

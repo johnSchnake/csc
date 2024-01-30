@@ -3,7 +3,7 @@ baseurl = "/"
 languageCode = "en-us"
 title = "Calcasieu Soccer Club"
 theme = "syna"
-enableGitInfo = true
+enableGitInfo = false
 version = "0.17.3"
 
 # Google Analytics tracking

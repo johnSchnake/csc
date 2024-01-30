@@ -32,15 +32,41 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
 
 +++
 
-# EAGLES COMPETITIVE LEVEL SOCCER
+## About
 
 The Eagles program is for boys and girls aged 10 through 18 years who wish to take their soccer to the next level. Teams are formed through tryouts and travel to tournaments throughout Louisiana and neighboring states and may also play in the Louisiana Competitive Soccer League. Official Tryouts for Eagles teams are held each May & June and you can sign up below. 
 
-CLICK HERE FOR THE EAGLES FAQ
+## Season Information
 
-CLICK HERE FOR EAGLES FEE INFORMATION
+- **Fall:** August-October (tryouts in May/June)
+- **Spring:** January-April
+- **Location:** 
+  - Games at Power Center Complex, 3200 Power Center Pkwy, Lake Charles
+  - Practices at Lagrange Soccer Park, 100 West School Street in Lake Charles
 
-Eagles players receive training from qualified and experienced trainers with aim of developing advanced skills and tactical knowledge to prepare them for whatever level they desire to play at and help them enjoy the game to its fullest. The Calcasieu Soccer Club also provides the opportunity for Eagles players to support community activities such as Buddy Ball Soccer.
+### Age Requirement
+
+- Junior Eagles Program includes athletes in the 11U-13U age divisions.
+- Senior Eagles Program includes athletes in the 14U-19U age divisions.
+
+Refer to the [AGE MATRIX](/files/age-matrix.pdf) to check your age group.
+
+## Ordering Uniforms
+
+To help with privacy and to protect club inventory members are now required to create an account with Third Coast Soccer. Once you have created an account, you can log in to the team shop and select Calcasieu Soccer Club Recreational.
+
+Click [HERE](https://thirdcoastsoccer.net/collections/calcasieu-soccer-club-recreational) to create an account and login.
+
+### Registration Fee
+
+Annual Eagles club & team fee of $1,120
+  - Installment plans available
+  - Financial aid available
+  - Multi-player discounts
+  - Can be offset by sponsorship opportunities
+  - Full details can be found [here](/files/Eagles-Fee-Information.pdf)
+
+Uniform fee (every 2 years): $130
 
 ## TRYOUT DATES 2022
 
@@ -55,19 +81,4 @@ Sign up for 2022 tryouts below:
  - GIRLS born 2009 through 2005 [link](https://docs.google.com/forms/d/e/1FAIpQLSeEFT8xIlwpBUimT-oZpxypmnScpyrFqZqKl48sq8pFWcyaDg/viewform)
    - Held during the week of May 31st – June 2nd
 
-Reference the age matrix in the [resources](/resources#eagles) section to find the proper group for the upcoming year.
-
-The [resources](/resources#eagles) also has information on financial aid, sponsorship, and additional information for parents and players.
-
-## THE CSC EAGLES 9U-10U ACADEMY
-
-Set up to help bridge the gap between Recreation and Competitive soccer, the CSC Academy provides 9U & 10U players training and games for those aspiring to play Eagles and beyond
-
-More information [here][/programs/academy]
- 
-## VENUES
-Eagles teams play their Louisiana Competitive Soccer League games at the Ward 3 Power Center Sport Complex, 3200 Power Center Parkway in Lake Charles.
-
-Eagles & Academy teams practice at the Lagrange Soccer Park, 100 West School Street in Lake Charles.
-
-For a map and general directions to the complex, click [HERE](/resources#maps).
+**Note:** Click 'Resources' below for information on financial aid, sponsorship, and additional information for parents and players including maps, handbooks, and FAQ.
