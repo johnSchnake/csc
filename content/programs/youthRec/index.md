@@ -15,7 +15,7 @@ The recreation league provides an opportunity for young boys and girls to play s
 
 [[buttons]]
   text = "More Info"
-  url = "programs/youthrec"
+  url = "programs/youthRec"
   color = "warning"
 
 [[buttons]]

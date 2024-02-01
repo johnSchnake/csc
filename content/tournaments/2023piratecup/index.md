@@ -12,7 +12,7 @@ summary = "A tournament for 9U-18U in SW Louisiana"
 
 [[buttons]]
   text = "More Info"
-  url = "events/2023piratecup"
+  url = "tournaments/2023piratecup"
   color = "warning"
 
 [[buttons]]

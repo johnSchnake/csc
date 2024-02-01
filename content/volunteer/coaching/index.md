@@ -8,7 +8,7 @@ weight = 150
 summary = """Whether you are a seasoned coach or just starting out, coaching is a rewarding experience that offers the chance to make a difference and have fun."""
 
 [asset]
-  image = "adultItem.jpg"
+  image = "coach-pic.jpg"
 
 [[buttons]]
   text = "More Info"
@@ -22,6 +22,7 @@ summary = """Whether you are a seasoned coach or just starting out, coaching is 
   onPage = true
 
 +++
+**To volunteer, email paul@cscsoccerclub.org**
 
 **WELCOME! NO EXPERIENCE IS NECESSARY!**
 
@@ -37,4 +38,4 @@ Click 'Resources' below for information that coaches may find useful in becoming
  - External coaching resources
  - and more!
 
-To volunteer, email paul@cscsoccerclub.org
+**To volunteer, email paul@cscsoccerclub.org**

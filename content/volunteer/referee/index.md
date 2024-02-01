@@ -23,7 +23,7 @@ summary = """Whether you are a seasoned referee or just starting out, being a re
 
 [[buttons]]
   text = "Register"
-  url = "files/BECOME-A-REFEREE-IN-LA.pdf"
+  url = "files/become-a-referee-in-la.pdf"
   color = "warning"
   onPage = true
 

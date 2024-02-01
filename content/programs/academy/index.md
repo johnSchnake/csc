@@ -11,7 +11,7 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
 """
 
 [asset]
-  image = "eaglesItem.jpg"
+  image = "academy-pic.jpg"
 
 [[buttons]]
   text = "More Info"

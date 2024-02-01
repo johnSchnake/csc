@@ -49,33 +49,33 @@ lastmod = ["lastmod", ":git", "date"]
       tier = "tier1"
     
     [params.ads.ad04]
-      image = "ads/retinaCenter.png"
+      image = "ads/retinacenter.jpg"
       url = "Academy URL"
       tier = "tier2"
     [params.ads.ad05]
-      image = "ads/flyLC.png"
+      image = "ads/flylc.jpg"
       url = "Academy URL"
       tier = "tier2"
     [params.ads.ad06]
-      image = "ads/firstFederal.jpg"
+      image = "ads/firstfederal.jpg"
       url = "Academy URL"
       tier = "tier2"
 
     [params.ads.ad07]
-      image = "ads/muddBruchhausandKeating.jpg"
+      image = "ads/muddbruchhausandkeating.jpg"
       url = "Academy URL"
       tier = "tier3"
     [params.ads.ad08]
-      image = "ads/globalCrane.jpg"
+      image = "ads/globalcrane.jpg"
       url = "Academy URL"
       tier = "tier3"
     [params.ads.ad9]
-      image = "ads/adAcademy.png"
+      image = "ads/adacademy.png"
       url = "Academy URL"
       tier = "tier3"
 
     [params.ads.ad10]
-      image = "ads/duhonPleasant.png"
+      image = "ads/duhonpleasant.png"
       url = "www.google.com"
       tier = "tier3"
     

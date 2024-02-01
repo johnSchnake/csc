@@ -12,9 +12,7 @@ title = "Buddy Ball"
     text = "Registration"
 
   [[rows.values]]
-    button = "Link"
-    url = "https://system.gotsport.com/programs/477969Y91"
-    
+    text = "Email paul@cscsoccerclub.org"
     color = "primary"
     align = "center"
 

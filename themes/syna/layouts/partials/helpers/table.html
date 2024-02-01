@@ -76,6 +76,7 @@
               {{- if (index $.header.values $i).hide_on_mobile -}}
                 {{- print " hide-on-mobile" }}
               {{- end -}}
+              
               {{- end -}}
             ">{{ .text | markdownify }}</td>
           {{- end -}}

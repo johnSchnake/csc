@@ -15,7 +15,7 @@ Our purpose is to introduce a younger generation to the great game of soccer thr
 
 [[buttons]]
   text = "More Info"
-  url = "programs/screamineagles"
+  url = "programs/screaminEagles"
   color = "warning"
 
 [[buttons]]
