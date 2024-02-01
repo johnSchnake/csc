@@ -64,7 +64,10 @@ Annual Eagles club & team fee of $1,120
   - Financial aid available
   - Multi-player discounts
   - Can be offset by sponsorship opportunities
-  - Full details can be found [here](/files/Eagles-Fee-Information.pdf)
+    - Sign Sponsorship [forms](/files/eagles-sponsor-signs-form.pdf)
+    - Sponsor the Eagles Program: [Hat Trick Sponsorship](/files/eagles-hat-trick-sponsorship.pdf)
+    - Apply for financial assistance [form](/files/eagles-academy-financial-aid-form.pdf)
+  - Full details can be found [here](/files/eagles-fee-information.pdf)
 
 Uniform fee (every 2 years): $130
 

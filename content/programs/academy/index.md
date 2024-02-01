@@ -19,18 +19,14 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   color = "warning"
 
 [[buttons]]
-  text = "Register"
-  url = "google.com"
-  color = "warning"
-  onPage = true
-
-[[buttons]]
   text = "Resources"
-  url = "resources#eagles"
+  url = "resources#academy"
   color = "warning"
   onPage = true
 
 +++
+
+**Registery by emailing kyra@cscsoccerclub.org**
 
 ## About
 
@@ -58,7 +54,7 @@ $55 (October) - $55 (November) - $55 (January) - $55 (February) - $55 (March).
 Players wishing to participate will sign up online using the CSC ACADEMY registration form
 NOT youth recreation.
 
-Please contact kyra@cscsoccerclub if you have any questions.
+Please contact <kyra@cscsoccerclub> if you have any questions.
 
 ## Season Information
 
@@ -71,5 +67,7 @@ Please contact kyra@cscsoccerclub if you have any questions.
   - Cleats 
   - Water
 - **COMPETITION:** Games with partner clubs, home & away, 2 tournaments (approx. 1 hr. travel).
+
+**Registery by emailing kyra@cscsoccerclub.org**
 
 **Note:** Additional information including training goals and maps can be accessed via the "Resources" link below.

@@ -7,15 +7,16 @@ weight = 180
 title = "Safety"
 #title_align = "left" # Default is center, can be left, right or center
 
-[header]
-  [[header.values]]
-    text = "Description"
-  [[header.values]]
-    text = "Link"
+[[rows]]
+  [[rows.values]]
+    text = "**Head Injuries & Concussion**"
+
+  [[rows.values]]
+    text = " "
 
 [[rows]]
   [[rows.values]]
-    header = "Concussion Checklist"
+    text = "Concussion Checklist"
 
   [[rows.values]]
     button = "Link"
@@ -25,7 +26,7 @@ title = "Safety"
 
 [[rows]]
   [[rows.values]]
-    header = "Concussion facts for players"
+    text = "Concussion facts for players"
 
   [[rows.values]]
     button = "Link"
@@ -35,7 +36,7 @@ title = "Safety"
 
 [[rows]]
   [[rows.values]]
-    header = "Concussion facts for coaches"
+    text = "Concussion facts for coaches"
 
   [[rows.values]]
     button = "Link"
@@ -45,12 +46,39 @@ title = "Safety"
 
 [[rows]]
   [[rows.values]]
-    header = "Adult insurance and accident claims"
+    text = "Concussion facts for parents"
+
+  [[rows.values]]
+    button = "Link"
+    url = "files/concussion-parents.pdf"
+    color = "primary"
+    align = "center"
+[[rows]]
+  [[rows.values]]
+    text = "US Soccer Concussion Video"
+
+  [[rows.values]]
+    button = "Link"
+    url = "https://www.youtube.com/watch?v=ZbiFxxIGt4E&feature=youtu.be"
+    color = "primary"
+    align = "center"
+
+[[rows]]
+  [[rows.values]]
+    text = "**Other Safety Resources**"
+
+  [[rows.values]]
+    text = " "
+[[rows]]
+  [[rows.values]]
+    text = "Adult insurance and accident claims"
 
   [[rows.values]]
     button = "Link"
     url = "http://www.playlouisianasoccer.org/ad/insurance_claim_procedure__adult/"
     color = "primary"
     align = "center"
+
+
 
 +++

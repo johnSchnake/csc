@@ -11,6 +11,8 @@ googleAnalytics = ""
 
 disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
+disablePathToLower = true
+
 [outputs]
   home = ["HTML", "JSON"]
 

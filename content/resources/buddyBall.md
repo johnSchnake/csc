@@ -7,15 +7,9 @@ weight = 110
 title = "Buddy Ball"
 #title_align = "left" # Default is center, can be left, right or center
 
-[header]
-  [[header.values]]
-    text = "Description"
-  [[header.values]]
-    text = "Link"
-
 [[rows]]
   [[rows.values]]
-    header = "Registration"
+    text = "Registration"
 
   [[rows.values]]
     button = "Link"
@@ -26,21 +20,11 @@ title = "Buddy Ball"
 
 [[rows]]
   [[rows.values]]
-    header = "Map to the fields"
+    text = "Map to the fields"
 
   [[rows.values]]
     button = "Link"
-    url = "#"
-    color = "primary"
-    align = "center"
-
-[[rows]]
-  [[rows.values]]
-    header = "Parents' Guide"
-
-  [[rows.values]]
-    button = "Link"
-    url = "files/screamin-eagles-parent-guide.pdf"
+    url = "/resources/#maps"
     color = "primary"
     align = "center"
 

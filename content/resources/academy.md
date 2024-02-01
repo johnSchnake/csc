@@ -2,9 +2,9 @@
 fragment = "table"
 #disabled = false
 date = "2017-10-10"
-weight = 160
+weight = 125
 
-title = "Coaching"
+title = "Eagles Academy"
 #title_align = "left" # Default is center, can be left, right or center
 
 [[rows]]
@@ -12,9 +12,7 @@ title = "Coaching"
     text = "Registration"
 
   [[rows.values]]
-    button = "Link"
-    url = "https://system.gotsport.com/programs/477969Y91"
-    
+    text = "Email kyra@cscsoccerclub.org"
     color = "primary"
     align = "center"
 
@@ -25,16 +23,6 @@ title = "Coaching"
   [[rows.values]]
     button = "Link"
     url = "/resources/#maps"
-    color = "primary"
-    align = "center"
-
-[[rows]]
-  [[rows.values]]
-    text = "League rules"
-
-  [[rows.values]]
-    button = "Link"
-    url = "files/adult-league-rules.pdf"
     color = "primary"
     align = "center"
 

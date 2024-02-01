@@ -7,15 +7,9 @@ weight = 110
 title = "Screamin' Eagles"
 #title_align = "left" # Default is center, can be left, right or center
 
-[header]
-  [[header.values]]
-    text = "Description"
-  [[header.values]]
-    text = "Link"
-
 [[rows]]
   [[rows.values]]
-    header = "Registration"
+    text = "Registration"
 
   [[rows.values]]
     button = "Link"
@@ -26,31 +20,21 @@ title = "Screamin' Eagles"
 
 [[rows]]
   [[rows.values]]
-    header = "Map to the fields"
+    text = "Map to the fields"
 
   [[rows.values]]
     button = "Link"
-    url = "#"
+    url = "/resources/#maps"
     color = "primary"
     align = "center"
 
 [[rows]]
   [[rows.values]]
-    header = "Parents' Guide"
+    text = "Parents' Guide"
 
   [[rows.values]]
     button = "Link"
     url = "files/screamin-eagles-parent-guide.pdf"
-    color = "primary"
-    align = "center"
-    
-[[rows]]
-  [[rows.values]]
-    header = "Sample additional line"
-
-  [[rows.values]]
-    button = "Link"
-    url = "google.com"
     color = "primary"
     align = "center"
 

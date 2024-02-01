@@ -7,15 +7,19 @@ weight = 150
 title = "Adult Leagues"
 #title_align = "left" # Default is center, can be left, right or center
 
-[header]
-  [[header.values]]
-    text = "Description"
-  [[header.values]]
-    text = "Link"
+[[rows]]
+  [[rows.values]]
+    text = "Registration (less competitive league)"
+
+  [[rows.values]]
+    button = "Link"
+    url = "https://system.gotsport.com/programs/4839F0493"
+    color = "primary"
+    align = "center"
 
 [[rows]]
   [[rows.values]]
-    header = "Registration (more competitive league)"
+    text = "Registration (more competitive league)"
 
   [[rows.values]]
     button = "Link"
@@ -26,17 +30,17 @@ title = "Adult Leagues"
 
 [[rows]]
   [[rows.values]]
-    header = "Map to the fields"
+    text = "Map to the LaGrange fields"
 
   [[rows.values]]
     button = "Link"
-    url = "#"
+    url = "/resources/#maps"
     color = "primary"
     align = "center"
 
 [[rows]]
   [[rows.values]]
-    header = "League rules"
+    text = "League rules"
 
   [[rows.values]]
     button = "Link"
@@ -46,32 +50,41 @@ title = "Adult Leagues"
 
 [[rows]]
   [[rows.values]]
-    header = "Registration (less competitive league)"
+    text = "Adult travel request"
 
   [[rows.values]]
     button = "Link"
-    url = "https://system.gotsport.com/programs/4839F0493"
+    url = "files/adultTravelRequest.pdf"
     color = "primary"
     align = "center"
 
 [[rows]]
   [[rows.values]]
-    header = "Map to the fields"
+    text = "USASA Competitions Brochure (English)"
 
   [[rows.values]]
     button = "Link"
-    url = "#"
+    url = "usasa-travel.pdf"
     color = "primary"
     align = "center"
 
 [[rows]]
   [[rows.values]]
-    header = "League rules"
+    text = "USASA Competitions Brochure (Spanish)"
 
   [[rows.values]]
     button = "Link"
-    url = "files/adult-league-rules.pdf"
+    url = "usasa-travel-spanish.pdf"
     color = "primary"
     align = "center"
 
+[[rows]]
+  [[rows.values]]
+    text = "Safety Information"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/resources/#safety"
+    color = "primary"
+    align = "center"
 +++

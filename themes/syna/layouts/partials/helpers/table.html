@@ -1,6 +1,7 @@
 <table class="table table-bordered
   {{- partial "helpers/text-color.html" (dict "self" .self) -}}
 ">
+  {{- if not .header }}{{else}}
   <thead>
     <tr>
       {{- .page_scratch.Set "col" 0 -}}
@@ -19,6 +20,7 @@
       {{- end }}
     </tr>
   </thead>
+  {{- end -}}
   <tbody>
     {{- range .rows -}}
       {{- .page_scratch.Set "col" 0 }}
@@ -26,17 +28,20 @@
         {{- range $i, $s := .values -}}
           {{- if .header }}
             <th class="align-middle
+              {{- if $.header -}}
               {{- if (index $.header.values $i).hide_on_mobile -}}
                 {{- print " hide-on-mobile" }}
-              {{- end -}}
+              {{- end -}}{{- end -}}
             ">{{ .header | markdownify }}</th>
             {{- else if .button }}
               <td class="align-middle
                 {{- if (in (slice "left" "center" "right") .align) -}}
                   {{- printf " text-%s" .align -}}
                 {{- end -}}
+                {{- if $.header -}}
                 {{- if (index $.header.values $i).hide_on_mobile -}}
                   {{- print " hide-on-mobile" }}
+                {{- end -}}
                 {{- end -}}
               ">
                 <a class="btn
@@ -52,8 +57,10 @@
               {{- if (in (slice "left" "center" "right") .align) -}}
                 {{- printf " text-%s" .align -}}
               {{- end -}}
+              {{- if $.header -}}
               {{- if (index $.header.values $i).hide_on_mobile -}}
                 {{- print " hide-on-mobile" }}
+              {{- end -}}
               {{- end -}}
             ">
               <a href="{{ .url }}">
@@ -65,8 +72,10 @@
               {{- if (in (slice "left" "center" "right") .align) -}}
                 {{- printf " text-%s" .align -}}
               {{- end -}}
+              {{- if $.header -}}
               {{- if (index $.header.values $i).hide_on_mobile -}}
                 {{- print " hide-on-mobile" }}
+              {{- end -}}
               {{- end -}}
             ">{{ .text | markdownify }}</td>
           {{- end -}}
