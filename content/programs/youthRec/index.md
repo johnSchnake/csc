@@ -41,7 +41,7 @@ The recreation league provides an opportunity for boys and girls aged 4 through 
 
 - **Fall:** September-October / **Spring:** March-April. Exact dates TBA.
 - **Time:** 9:00 am or 10:00 am.
-- **Location:** Power Center Complex, 3200 Power Center Pkwy, Lake Charles.
+- **Location:** Power Center Complex, 3210 Power Center Pkwy, Lake Charles.
 - **Equipment:** 
    - Jerseys: Each player will need two jerseys. One for home (yellow) games and one for away/visitor (black) games. The ONE-TIME cost for the jerseys is as follows:
     - Youth Sizes:  $18 each

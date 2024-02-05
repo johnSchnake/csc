@@ -37,7 +37,7 @@ The activities take place at the Ward 3 Power Center soccer fields, and are faci
 ## Season Information
 
 - **Dates:** TBD
-- **Location:** Power Center Complex, 3200 Power Center Pkwy, Lake Charles
+- **Location:** Power Center Complex, 3210 Power Center Pkwy, Lake Charles
 - **Sessions:** Sessions involve dribbling, passing, scoring games and activities. There are usually 3 games for each 1 hour session.
 
 **Email paul@cscsoccerclub.org for registration and questions**

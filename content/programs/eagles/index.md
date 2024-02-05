@@ -41,7 +41,7 @@ The Eagles program is for boys and girls aged 10 through 18 years who wish to ta
 - **Fall:** August-October (tryouts in May/June)
 - **Spring:** January-April
 - **Location:** 
-  - Games at Power Center Complex, 3200 Power Center Pkwy, Lake Charles
+  - Games at Power Center Complex, 3210 Power Center Pkwy, Lake Charles
   - Practices at Lagrange Soccer Park, 100 West School Street in Lake Charles
 
 ### Age Requirement

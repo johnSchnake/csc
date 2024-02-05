@@ -37,56 +37,56 @@ lastmod = ["lastmod", ":git", "date"]
   [params.ads]
     [params.ads.ad01]
       image = "ads/bradberry.jpg"
-      url = "Academy URL"
+      url = "https://www.imperialhealth.com/services/family-medicine/"
       tier = "tier1"
     [params.ads.ad02]
       image = "ads/ortho.jpg"
-      url = "Academy URL"
+      url = "https://www.centerforortho.com/"
       tier = "tier1"
     [params.ads.ad03]
       image = "ads/billynavarre.png"
-      url = "Academy URL"
+      url = "https://www.navarreauto.com/"
       tier = "tier1"
     
     [params.ads.ad04]
       image = "ads/retinacenter.jpg"
-      url = "Academy URL"
+      url = "http://theeyeclinic.net/"
       tier = "tier2"
     [params.ads.ad05]
       image = "ads/flylc.jpg"
-      url = "Academy URL"
+      url = "https://flylakecharles.com/"
       tier = "tier2"
     [params.ads.ad06]
       image = "ads/firstfederal.jpg"
-      url = "Academy URL"
+      url = "https://www.ffbla.bank/"
       tier = "tier2"
 
     [params.ads.ad07]
       image = "ads/muddbruchhausandkeating.jpg"
-      url = "Academy URL"
+      url = "https://lakecharleslawfirm.com/"
       tier = "tier3"
     [params.ads.ad08]
       image = "ads/globalcrane.jpg"
-      url = "Academy URL"
+      url = "https://www.globalcrane.com/"
       tier = "tier3"
     [params.ads.ad9]
       image = "ads/adacademy.png"
-      url = "Academy URL"
+      url = "https://www.academy.com/storelocator/louisiana/lake-charles/store-0237"
       tier = "tier3"
 
     [params.ads.ad10]
       image = "ads/duhonpleasant.png"
-      url = "www.google.com"
+      url = "https://www.dandpengineers.com/"
       tier = "tier3"
     
     [params.ads.ad11]
       image = "ads/oakgrove.png"
-      url = "Academy URL"
+      url = "https://oakgrovewealth.com/"
       tier = "tier3"
     
     [params.ads.ad12]
       image = "ads/snow.png"
-      url = "Academy URL"
+      url = "https://snowholistichealth.com/"
       tier = "tier3"
 
   [params.style]

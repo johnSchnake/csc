@@ -61,7 +61,7 @@ Please contact <kyra@cscsoccerclub> if you have any questions.
 - **Dates:** 20 weeks (10 weeks Fall / 10 weeks Spring)
   - FALL - August through October
   - SPRING - February through April
-- **Location:** Power Center Complex, 3200 Power Center Pkwy, Lake Charles.
+- **Location:** Power Center Complex, 3210 Power Center Pkwy, Lake Charles.
 - **Equipment:** 
   - The CSC Recreation uniform for games and CSC Eagles shirt (provided) for practice, shorts, socks, shin guards.
   - Cleats 

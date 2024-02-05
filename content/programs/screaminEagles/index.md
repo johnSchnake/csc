@@ -56,7 +56,7 @@ $70, includes T-shirt & medal.
 
 - **Fall:** September-October / **Spring:** March-April. Exact dates TBA.
 - **Time:** 9:00 am or 10:00 am.
-- **Location:** Power Center Complex, 3200 Power Center Pkwy, Lake Charles.
+- **Location:** Power Center Complex, 3210 Power Center Pkwy, Lake Charles.
 - **Equipment:** 
   - Screamin’ Eagles T-Shirt, shorts, socks, shin guards.
   - Cleats (recommended but optional) or sneakers. 
