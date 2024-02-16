@@ -31,11 +31,15 @@ Listed below are some cases which, although possible, would likely require devel
 ## TODO
 
  - [x] adjust buttons in list to be vertically aligned on the side? Already centered so maybe ok.
- - [ ] Fill in copy from existing site
- - [ ] Advertiser logos (new ones)
+ - [x] Fill in copy from existing site
+ - [x] Advertiser logos (new ones)
  - [x] Alternate background color for items in list
- - [ ] Pictures for all the programs?
+ - [x] Pictures for all the programs?
  - [x] Simple way to make announcements?
+ - [ ] New Pictures
+ - [ ] New advertisers
+ - [ ] Finish resources page
+ - [ ] Write "How-To" doc
 
 Copyright 2017 - The Syna Theme Starter Authors
 

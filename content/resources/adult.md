@@ -54,7 +54,7 @@ title = "Adult Leagues"
 
   [[rows.values]]
     button = "Link"
-    url = "files/adultTravelRequest.pdf"
+    url = "files/adulttravelrequest.pdf"
     color = "primary"
     align = "center"
 
@@ -64,7 +64,7 @@ title = "Adult Leagues"
 
   [[rows.values]]
     button = "Link"
-    url = "usasa-travel.pdf"
+    url = "files/usasa-travel.pdf"
     color = "primary"
     align = "center"
 
@@ -74,7 +74,7 @@ title = "Adult Leagues"
 
   [[rows.values]]
     button = "Link"
-    url = "usasa-travel-spanish.pdf"
+    url = "files/usasa-travel-spanish.pdf"
     color = "primary"
     align = "center"
 

@@ -20,21 +20,21 @@ title = "Referees"
 
 [[rows]]
   [[rows.values]]
-    text = "Map to the fields"
+    text = "Become a Referee in LA"
 
   [[rows.values]]
     button = "Link"
-    url = "/resources/#maps"
+    url = "files/become-a-referee-in-la.pdf"
     color = "primary"
     align = "center"
 
 [[rows]]
   [[rows.values]]
-    text = "League rules"
+    text = "Map to the fields"
 
   [[rows.values]]
     button = "Link"
-    url = "files/adult-league-rules.pdf"
+    url = "/resources/#maps"
     color = "primary"
     align = "center"
 

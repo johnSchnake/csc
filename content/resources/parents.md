@@ -9,11 +9,21 @@ title = "Parents"
 
 [[rows]]
   [[rows.values]]
-    text = "todo"
+    text = "Eagles Parents Handbook (2022)"
 
   [[rows.values]]
     button = "Link"
-    url = "files/concussion-checklist.pdf"
+    url = "files/eagles-parent-handbook-2022.pdf"
+    color = "primary"
+    align = "center"
+
+[[rows]]
+  [[rows.values]]
+    text = "Safety Information"
+
+  [[rows.values]]
+    button = "Link"
+    url = "resources/#safety"
     color = "primary"
     align = "center"
 
