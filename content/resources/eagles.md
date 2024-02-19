@@ -107,4 +107,14 @@ title = "Eagles"
     url = "files/eagles-sponsor-signs-form.pdf"
     color = "primary"
     align = "center"
+
+[[rows]]
+  [[rows.values]]
+    text = "Extra resources for parents"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/resources/#parents"
+    color = "primary"
+    align = "center"
 +++

@@ -80,6 +80,46 @@ title = "Youth Recreational"
 
   [[rows]]
   [[rows.values]]
+    text = "Rec Curriculum 5U-6U"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/files/WINTER-REC-CURRICULUM-5U-6U.pdf"
+    color = "primary"
+    align = "center"
+
+  [[rows]]
+  [[rows.values]]
+    text = "Rec Curriculum 7U-8U"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/files/WINTER-REC-CURRICULUM-7U-8U.pdf"
+    color = "primary"
+    align = "center"
+
+  [[rows]]
+  [[rows.values]]
+    text = "Rec Curriculum 9U-10U"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/files/WINTER-REC-CURRICULUM-9U-10U.pdf"
+    color = "primary"
+    align = "center"
+
+  [[rows]]
+  [[rows.values]]
+    text = "Rec Curriculum 11U-12U"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/files/WINTER-REC-CURRICULUM-11U-12U.pdf"
+    color = "primary"
+    align = "center"
+
+  [[rows]]
+  [[rows.values]]
     text = "Overview of CSC 10U Academy"
 
   [[rows.values]]
@@ -88,4 +128,13 @@ title = "Youth Recreational"
     color = "primary"
     align = "center"
 
+[[rows]]
+  [[rows.values]]
+    text = "Extra resources for parents"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/resources/#parents"
+    color = "primary"
+    align = "center"
 +++

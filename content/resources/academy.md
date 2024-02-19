@@ -26,4 +26,14 @@ title = "Eagles Academy"
     color = "primary"
     align = "center"
 
+[[rows]]
+  [[rows.values]]
+    text = "Extra resources for parents"
+
+  [[rows.values]]
+    button = "Link"
+    url = "/resources/#parents"
+    color = "primary"
+    align = "center"
+
 +++
