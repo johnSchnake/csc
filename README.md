@@ -9,6 +9,22 @@ Below are the instructions for how to make simple changes to the website. They c
 a GitHub account and modifying the files in the browser. You can always download/edit/upload new files but it is slightly more
 complicated because it requires using the command-line.
 
+### Adding or Modifying the alert on the top of the page
+
+Navigate to `config.toml` and edit the line that looks like:
+
+```
+  [params.alerts]
+    [params.alerts.alert1]
+      message = "Changes to sample alert"
+```
+
+ - Changing the text will obviously just change the text.
+ - Duplicating that (and naming it `...alert2`) will make a second alert display as well
+ - Deleting the message (and the line above it labeling that alert `[params.alerts.alert1]`) will remove the alert
+
+If you don't see any alerts or even a `[params.alerts]` line, just copy/paste the sample code above into the file.
+
 ### Modifying an Existing Page
 
 If you are simply trying to change text on a page, navigate to the file (on Github). Content pages are found in the
