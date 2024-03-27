@@ -11,7 +11,7 @@ The recreation league provides an opportunity for young boys and girls to play s
 """
 
 [asset]
-  image = "recItem.jpg"
+  image = "youth_rec_2.jpg"
 
 [[buttons]]
   text = "More Info"

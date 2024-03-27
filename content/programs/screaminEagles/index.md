@@ -11,7 +11,7 @@ Our purpose is to introduce a younger generation to the great game of soccer thr
 """
 
 [asset]
-  image = "screaminEaglesItem.jpg"
+  image = "screamin_eagles_2.jpg"
 
 [[buttons]]
   text = "More Info"

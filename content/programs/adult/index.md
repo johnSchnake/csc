@@ -10,7 +10,7 @@ summary = """The Coed Sub-optimal 8 v 8 League is a semi-competitive coed league
 Fees are $50.00 for new players or $35.00 for returning players."""
 
 [asset]
-  image = "adultItem.jpg"
+  image = "adult_2.jpg"
 
 [[buttons]]
   text = "More Info"
