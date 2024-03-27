@@ -19,11 +19,11 @@ The recreation league provides an opportunity for young boys and girls to play s
   color = "warning"
 
 [[buttons]]
-  text = "Late Registration List"
-  url = "https://docs.google.com/forms/d/e/1FAIpQLSe_CNOvrLGxtXIDpg53VBaKGakQIJRTt_NK8ZS5AKZzHviSag/viewform"
+  text = "Late Registration List [Closed]"
+  url = ""
   color = "warning"
   onPage = true
-
+  disabled = true
   
 [[buttons]]
   text = "Resources"

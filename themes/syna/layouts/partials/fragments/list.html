@@ -139,6 +139,7 @@
                   {{- range .Params.buttons }}
                     <a class="btn btn-lg m-2
                       {{ if hasPrefix .url "#" }} anchor{{ end }}
+                      {{ if .disabled }} disabled{{ end }}
                       {{- $color := .color | default "primary" -}}
                       {{- printf " btn-%s" $color -}}
                     " href="{{ .url | relLangURL }}">

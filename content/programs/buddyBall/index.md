@@ -11,7 +11,7 @@ Buddy Ball is a soccer program for children with learning disabilities, and/or p
 """
 
 [asset]
-  image = "buddyball-pic.jpg"
+  image = "buddy_ball_2.jpg"
 
 [[buttons]]
   text = "More Info"

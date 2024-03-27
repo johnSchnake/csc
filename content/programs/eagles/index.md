@@ -19,10 +19,11 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   color = "warning"
 
 [[buttons]]
-  text = "Register"
-  url = "google.com"
+  text = "Register [Closed]"
+  url = ""
   color = "warning"
   onPage = true
+  disabled = true
 
 [[buttons]]
   text = "Resources"
@@ -38,7 +39,7 @@ The Eagles program is for boys and girls aged 10 through 18 years who wish to ta
 
 ## Season Information
 
-- **Fall:** August-October (tryouts in May/June)
+- **Fall:** August-October (tryouts TBD)
 - **Spring:** January-April
 - **Location:** 
   - Games at Power Center Complex, 3210 Power Center Pkwy, Lake Charles
@@ -51,11 +52,6 @@ The Eagles program is for boys and girls aged 10 through 18 years who wish to ta
 
 Refer to the [AGE MATRIX](/files/age-matrix.pdf) to check your age group.
 
-## Ordering Uniforms
-
-To help with privacy and to protect club inventory members are now required to create an account with Third Coast Soccer. Once you have created an account, you can log in to the team shop and select Calcasieu Soccer Club Recreational.
-
-Click [HERE](https://thirdcoastsoccer.net/collections/calcasieu-soccer-club-recreational) to create an account and login.
 
 ### Registration Fee
 

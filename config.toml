@@ -36,15 +36,16 @@ lastmod = ["lastmod", ":git", "date"]
 
   [params.ads]
     [params.ads.ad01]
-      image = "ads/bradberry.jpg"
+      image = "ads/imperial_health_bradberry.jpg"
       url = "https://www.imperialhealth.com/services/family-medicine/"
       tier = "tier1"
     [params.ads.ad02]
       image = "ads/ortho.jpg"
       url = "https://www.centerforortho.com/"
       tier = "tier1"
+
     [params.ads.ad03]
-      image = "ads/billynavarre.png"
+      image = "ads/navarre.png"
       url = "https://www.navarreauto.com/"
       tier = "tier1"
     
@@ -60,34 +61,6 @@ lastmod = ["lastmod", ":git", "date"]
       image = "ads/firstfederal.jpg"
       url = "https://www.ffbla.bank/"
       tier = "tier2"
-
-    [params.ads.ad07]
-      image = "ads/muddbruchhausandkeating.jpg"
-      url = "https://lakecharleslawfirm.com/"
-      tier = "tier3"
-    [params.ads.ad08]
-      image = "ads/globalcrane.jpg"
-      url = "https://www.globalcrane.com/"
-      tier = "tier3"
-    [params.ads.ad9]
-      image = "ads/adacademy.png"
-      url = "https://www.academy.com/storelocator/louisiana/lake-charles/store-0237"
-      tier = "tier3"
-
-    [params.ads.ad10]
-      image = "ads/duhonpleasant.png"
-      url = "https://www.dandpengineers.com/"
-      tier = "tier3"
-    
-    [params.ads.ad11]
-      image = "ads/oakgrove.png"
-      url = "https://oakgrovewealth.com/"
-      tier = "tier3"
-    
-    [params.ads.ad12]
-      image = "ads/snow.png"
-      url = "https://snowholistichealth.com/"
-      tier = "tier3"
 
   [params.style]
     background = "white"

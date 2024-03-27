@@ -18,16 +18,18 @@ Fees are $50.00 for new players or $35.00 for returning players."""
   color = "warning"
 
 [[buttons]]
-  text = "Register (less competitive)"
-  url = "https://system.gotsport.com/programs/4839F0493"
+  text = "Register (8v8 Wednesday) [Closed]"
+  url = ""
   color = "warning"
   onPage = true
+  disabled = true
 
 [[buttons]]
-  text = "Register (competitive league)"
-  url = "https://system.gotsport.com/programs/477969Y91"
+  text = "Register (8v8 Sunday) [Closed]"
+  url = "" 
   color = "warning"
   onPage = true
+  disabled = true
 
 [[buttons]]
   text = "Resources"
