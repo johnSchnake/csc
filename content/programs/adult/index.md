@@ -44,10 +44,10 @@ Fees are $50.00 for new players or $35.00 for returning players."""
 CSC offers 2 separate leagues for players 18+:
   - Less competitive ("Sub-optimal")
     - Males age 27+, females 18+
-    - Smaller teams on a reduced-size pitch
   - More competitive
     - Males and females 18+
-    - Larger teams played on a full-size pitch
+
+Both leagues play 8v8 on a reduced-size pitch.
 
 ### Age Requirement
 All players must be 18+
