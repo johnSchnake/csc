@@ -50,17 +50,23 @@ lastmod = ["lastmod", ":git", "date"]
       tier = "tier2"
     
     [params.ads.ad04]
-      image = "ads/retinacenter.jpg"
-      url = "http://theeyeclinic.net/"
+      image = "ads/muddy_water_logo.jpg"
+      url = "https://mwdredging.com/"
       tier = "tier3"
     [params.ads.ad05]
-      image = "ads/flylc.jpg"
-      url = "https://flylakecharles.com/"
-      tier = "tier3"
-    [params.ads.ad06]
       image = "ads/firstfederal.jpg"
       url = "https://www.ffbla.bank/"
       tier = "tier3"
+    [params.ads.ad06]
+      image = "ads/flylc.jpg"
+      url = "https://flylakecharles.com/"
+      tier = "tier3"
+    [params.ads.ad07]
+      image = "ads/retinacenter.jpg"
+      url = "http://theeyeclinic.net/"
+      tier = "tier3"
+
+
 
   [params.style]
     background = "white"
