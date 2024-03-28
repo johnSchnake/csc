@@ -2,12 +2,24 @@
 {{- $bg := .self.Scratch.Get "bg" }}
 
 {{- partial "helpers/container.html" (dict "start" true "in_slot" .in_slot "bg" $bg "id" .id "Params" .Params) }}
-  <div class="ads">
-    {{- range $.Site.Params.ads }}
+  <div class="ads tier1">
+    {{- range $.Site.Params.ads }}{{ if eq .tier "tier1"}}
       <a href="{{ .url }}">
         <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad {{ .tier }}" alt="{{ .text }}">
       </a>
-    {{- end }}
+    {{- end }}{{- end }}
+  </div><div class="ads tier2">
+    {{- range $.Site.Params.ads }}{{ if eq .tier "tier2"}}
+    <a href="{{ .url }}">
+      <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad {{ .tier }}" alt="{{ .text }}">
+    </a>
+    {{- end }}{{- end}}
+  </div><div class="ads tier3">
+    {{- range $.Site.Params.ads }}{{ if eq .tier "tier3"}}
+    <a href="{{ .url }}">
+      <img src="{{ partial "helpers/image.html" (dict "root" $self "asset" . "resize" "100x50") }}" class="img-fluid img-custom-ad {{ .tier }}" alt="{{ .text }}">
+    </a>
+    {{- end }}{{- end }}
   </div>
 
   <div class="row">
