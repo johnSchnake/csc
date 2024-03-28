@@ -19,11 +19,22 @@ The Eagles program is for boys and girls who wish to take their soccer to the ne
   color = "warning"
 
 [[buttons]]
-  text = "Register [Closed]"
-  url = ""
+  text = "Tryout Info"
+  url = "/programs/eagles#tryout-dates-2024"
+  color = "warning"
+  onPage = false
+
+[[buttons]]
+  text = "Register for Tryouts (U11-U13)"
+  url = "https://forms.gle/ik7cjzAnSwHoU7kMA"
   color = "warning"
   onPage = true
-  disabled = true
+
+[[buttons]]
+  text = "Register for Tryouts (U14-U18)"
+  url = "https://forms.gle/rdqdzNbYcTPrUhSXA"
+  color = "warning"
+  onPage = true
 
 [[buttons]]
   text = "Resources"
@@ -39,7 +50,7 @@ The Eagles program is for boys and girls aged 10 through 18 years who wish to ta
 
 ## Season Information
 
-- **Fall:** August-October (tryouts TBD)
+- **Fall:** August-October (tryout dates [below](#tryout-dates-2024))
 - **Spring:** January-April
 - **Location:** 
   - Games at Power Center Complex, 3210 Power Center Pkwy, Lake Charles
@@ -67,17 +78,38 @@ Annual Eagles club & team fee of $1,120
 
 Uniform fee (every 2 years): $130
 
-## TRYOUT DATES 2022
+## TRYOUT DATES 2024
 
-Sign up for 2022 tryouts below:
+#### Boys & Girls U11-U13
 
- - BOYS born 2010 through 2012 [link](https://docs.google.com/forms/d/e/1FAIpQLSezXuOC5DA9S2JBAHdQ3eKzdXu5PoeYukrdOv0QpZ22XrPjPQ/viewform)
-   - Held during the week of May 2nd – May 5th
- - BOYS born 2009 through 2005 [link](https://docs.google.com/forms/d/e/1FAIpQLSeUGMJOh9HRCOSKfxWQ5Y4xLrTM2tG5VgTQdIFHK6xJKkI9GA/viewform)
-   - Held during the week of May 31st – June 2nd
- - GIRLS born 2010 through 2012 [link](https://docs.google.com/forms/d/e/1FAIpQLSfXblwTuONUkQcu_5_ds-otrvotJGKsdG5d6Tczs4FOJ3rmTw/viewform)
-   - Held during the week of May 2nd – May 5th
- - GIRLS born 2009 through 2005 [link](https://docs.google.com/forms/d/e/1FAIpQLSeEFT8xIlwpBUimT-oZpxypmnScpyrFqZqKl48sq8pFWcyaDg/viewform)
-   - Held during the week of May 31st – June 2nd
+  - Boys and Girls 11U (2014) 
+    - Monday May 6th & Tuesday May 7th, 5:15pm-6:30pm
+  - Boys and Girls 12U (2013) 
+    - Monday May 6th & Tuesday May 7th, 6:30pm-7:45pm
+  - Boys and Girls 13U (2012) 
+    - Thursday May 9th, 5:30pm - 7pm
+
+Makeup or Second Tryout CallBacks
+  - Boys and Girls 11U (2014) & 12U (2013)
+    - May 13th, 5:30pm-7:00pm
+  - Boys and Girls 13U (2012)
+    - May 14th, 5:30pm-7:00pm
+
+#### Boys and Girls U14-U18
+
+  - Boys & Girls 14U (2011) 
+    - Tuesday May 28th, 5:15pm-6:30pm
+  - Boys & Girls 15U (2010) 
+    - Tuesday May 28th, 6:30pm-7:45pm
+  - Boys & Girls 16U (2009) 
+    - Thursday May 30th, 5:15pm - 6:30pm
+  - Boys & Girls 17U-18U (2008/2007) 
+    - Thursday May 30th, 6:30pm - 7:45pm
+
+Makeup or Second Tryout CallBacks
+  - Boys & Girls 14U (2011), Boys & Girls 15U (2010) 
+    - Monday June 3rd, 5:30pm - 7:00pm
+  - Boys & Girls 16U (2009),  Boys & Girls 17U-18U (2008/07) 
+    - Tuesday June 4th, 5:30pm - 7:00pm
 
 **Note:** Click 'Resources' below for information on financial aid, sponsorship, and additional information for parents and players including maps, handbooks, and FAQ.
